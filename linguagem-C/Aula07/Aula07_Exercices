@@ -1,0 +1,17 @@
+-=1.Construa uma aplicação em C, que mostre a área de um quadrado, retângulo e círculo sendo que ás áreas devem ser vriáveis globais e todas
+as outras internas e funções (escopo).
+
+
+2. Construa um aplicativo em C para calcular o valor de um produto onde valor = preço*icms. Sendo que  o icms varia da seguinte forma:
+0.18, 0.17, e 0.2. Utilize constantes para o valor do icms (constantes).
+
+
+3.Crie um aplicativo em C para determinar o dias da semana sendo que domingo = 1. Crie um tipo enumerado com C para esse fim (tipo de dado
+do usuário).
+
+
+4. A seguinte expressão precisa ser calculada: a=7, b=5, c=2. S = 2*c+3/a-c². Crie um aplicativo para calcular a variável S (precedência).
+
+
+
+ 
